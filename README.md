@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# Project Name
+> Eye Exercise Project
 
-You can use the [editor on GitHub](https://github.com/danielwestfall/eyeExercise/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## General info
+Add more general information about project. What the purpose of the project is? Motivation?
 
-### Markdown
+## Screenshots
+![Example screenshot](eye.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Technologies
+* HTML
+* CSS
+* JavaScript
 
-```markdown
-Syntax highlighted code block
+## Setup
+Feel free to fork it and make your own changes. Check out the project here (https://danielwestfall.github.io/eyeExercise/eyeexercise.html)
 
-# Header 1
-## Header 2
-### Header 3
+## Code Examples
+Show examples of usage:
+`put-your-code-here`
 
-- Bulleted
-- List
+## Features
+List of features ready and TODOs for future development
+* Awesome feature 1
+* Awesome feature 2
+* Awesome feature 3
 
-1. Numbered
-2. List
+To-do list:
+* Play with CSS - maybe add eyebrows that move with the retina?
+* Change the shape of the eyes and then adjust the field of movement of retinas.
 
-**Bold** and _Italic_ and `Code` text
+## Status
+Project is: _in progress_
 
-[Link](url) and ![Image](src)
-```
+Project done to class specifications. I plan on playing with the CSS to see what kind of eyes I can make and how to move the eyes more.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Inspiration
+Project created by MIT xPro Full Stack Web Development Course. 
 
-### Jekyll Themes
+## Contact
+Created by [@danwestfall6](https://danielwestfall.github.io/) - feel free to contact me!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danielwestfall/eyeExercise/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## License
+license:mit
