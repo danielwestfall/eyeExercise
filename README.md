@@ -31,9 +31,9 @@ Show examples of usage:
 
 ## Features
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Different eye shape
+* Program winking/blinking
+* Add eyebrows/lashes
 
 To-do list:
 * Play with CSS - maybe add eyebrows that move with the retina?
@@ -51,4 +51,4 @@ Project created by MIT xPro Full Stack Web Development Course.
 Created by [@danwestfall6](https://danielwestfall.github.io/) - feel free to contact me!
 
 ## License
-license:mit
+MIT
