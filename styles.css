@@ -4,30 +4,71 @@ body {
   background: #14495e;
 }
 
-.eyes {
-  position: absolute;
-  top: 50%;
+.container {
+
+  top: 0;
+  left: 0;
   transform: translateY(-50%);
   width: 100%;
   text-align: center;
 }
-.eye {
-  width: 240px;
-  height: 120px;
+
+.stackcontainerbottom{
+  top: 100px; 
+  left: 100px;
+  position: absolute;
+}
+
+.stackcontainertop{
+  position: absolute;
+  top: 240px; 
+  left: 130px;
+}
+
+.stackcontainertoptwo{
+  position: absolute;
+  top: 240px; 
+  left: 260px;
+}
+
+.eyes {
+  top: 50%; 
+  left: 0%;
+  transform: translateY(-50%);
+  position: absolute;
+  text-align: center;
+}
+.eyezero {
+  width: 40px;
+  height: 40px;
   background: #fff;
   display: inline-block;
   margin: 40px;
   border-radius: 50%;
-  position: relative;
+  position: absolute;
   overflow: hidden;
+  left: 100px;
 }
+
+.eyeone {
+  width: 40px;
+  height: 40px;
+  background: #fff;
+  display: inline-block;
+  margin: 40px;
+  border-radius: 50%;
+  position: absolute;
+  overflow: hidden;
+  left: 241px;
+}
+
 .ball {
-  width: 80px;
-  height: 80px;
+  width: 35px;
+  height: 35px;
   background: #000;
   position: absolute;
-  top: 50%;
-  left: 50%;
+
+
   transform: translate(-50%, -50%);
   border-radius: 50%;
 }
