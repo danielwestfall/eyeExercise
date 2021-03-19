@@ -1,8 +1,8 @@
 const balls = document.getElementsByClassName('ball');
 
 document.ontouchmove = (event) => {
-  const x = (event.touches.clientX * 1000) / window.innerWidth + '%';
-  const y = (event.touches.clientY * 1000) / window.innerHeight + '%';
+  const x = (event.touches[0].clientX * 100) / window.innerWidth + '%';
+  const y = (event.touches[0].clientY * 100) / window.innerHeight + '%';
 
   for (let i = 0; i < 2; i++){
       balls[i].style.left = x;
