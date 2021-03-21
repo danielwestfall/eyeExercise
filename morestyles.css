@@ -1,0 +1,13 @@
+iframe {
+  height: 1000px;
+  width: 800px;
+  margin: 0 auto;
+  display:block;
+  border: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #14495e;
+}
