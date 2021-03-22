@@ -55,32 +55,23 @@ Project created by MIT xPro Full Stack Web Development Course. Completed and mod
 
 Artwork used was taken from FreeSVG.org and understood to be under Creative Commons 0 license via FreeSCG.org. See the links to each below. 
 
-FreeSVG.org
-https://freesvg.org/
+[FreeSVG.org](https://freesvg.org/)
 
-Japanese Dou Shou Qi dog vector illustration
-https://freesvg.org/japanese-dou-shou-qi-dog-vector-illustration
+[Japanese Dou Shou Qi dog vector illustration](https://freesvg.org/japanese-dou-shou-qi-dog-vector-illustration)
 
-Doushouqi elephant
-https://freesvg.org/doushouqi-elephant
+[Doushouqi elephant](https://freesvg.org/doushouqi-elephant)
 
-Japanese Dou Shou Qi tiger vector illustration
-https://freesvg.org/japanese-dou-shou-qi-tiger-vector-illustration
+[Japanese Dou Shou Qi tiger vector illustration](https://freesvg.org/japanese-dou-shou-qi-tiger-vector-illustration)
 
-Japanese Dou Shou Qi rat vector clip art
-https://freesvg.org/japanese-dou-shou-qi-rat-vector-clip-art
+[Japanese Dou Shou Qi rat vector clip art](https://freesvg.org/japanese-dou-shou-qi-rat-vector-clip-art)
 
-Japanese Dou Shou Qi lion vector graphics
-https://freesvg.org/japanese-dou-shou-qi-lion-vector-graphics
+[Japanese Dou Shou Qi lion vector graphics](https://freesvg.org/japanese-dou-shou-qi-lion-vector-graphics)
 
-Japanese Dou Shou Qi leopard vector clip art
-https://freesvg.org/japanese-dou-shou-qi-leopard-vector-clip-art
+[Japanese Dou Shou Qi leopard vector clip art](https://freesvg.org/japanese-dou-shou-qi-leopard-vector-clip-art)
 
-Japanese Dou Shou Qi wolf vector graphics
-https://freesvg.org/japanese-dou-shou-qi-wolf-vector-graphics
+[Japanese Dou Shou Qi wolf vector graphics](https://freesvg.org/japanese-dou-shou-qi-wolf-vector-graphics)
 
-Japanese Dou Shou Qi cat vector image
-https://freesvg.org/japanese-dou-shou-qi-cat-vector-image
+[Japanese Dou Shou Qi cat vector image](https://freesvg.org/japanese-dou-shou-qi-cat-vector-image)
 
 ## Contact
 [Daniel Westfall](mailto:DWWestfall@Protonmail.com).  Check out [my Portfolio](https://danielwestfall.github.io/ "my Portfolio")
