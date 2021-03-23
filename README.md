@@ -4,6 +4,7 @@
 ## Table of contents
 ---
 * [General info](#general-info)
+* [Links](#links)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -15,6 +16,12 @@
 ## General info
 ---
 Our initial project was to take a premade webpage with a single eye on it that follows the mouse movement. Our project was to take the code, utilize the HTML, CSS, and JavaScript we have learned so far to create a second eye to follow the mouse as well. After the project, I decided to have a bit more fun with it. I thought the eyes were a fun concept and wanted to build on it. I thought it would be cool to make a character creation screen like seen in video games. I learned and utilized more and more in the creation of this project. I took the eyes and edited their styles to make them fit a selection of animal characters from a resource that has SVG artwork that is available for use (see the Inspiration section for details and credit for the artwork). I used HTML to structure the page using an iframe to center the screen and forms to create the user input fields. I utilized a Bootstrap menu via Bootstrap CDN for attractive menu controls. CSS and JavaScript worked hand in hand to make all the user input options possible. The SVG elements are selected by clicking them and their styles are dynamically changed. 
+
+## Links
+---
+* [Open the Project](https://danielwestfall.github.io/eyeExercise/eyeexercise.html)
+* [View it on GitHub](https://github.com/danielwestfall/eyeExercise)
+* [View my Portfolio](https://danielwestfall.github.io/)
 
 ## Screenshots
 ---
