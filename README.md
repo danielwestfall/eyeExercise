@@ -31,7 +31,7 @@ Our initial project was to take a premade webpage with a single eye on it that f
 Feel free to fork it and make your own changes. You can also download the files locally and unzip them to a folder and run them in your favorite web browser. Check out the project [here](https://danielwestfall.github.io/eyeExercise/eyeexercise.html "Eye Exercise").
 
 Step One: Choose your character from the drop down menu. You have 8 characters to choose from!
-Step Two: Customize your character! Choose the fill and stroke colors you want for your character then simply click the part of the character you want to change. Remember to choose the colors first, then click the part.
+Step Two: Customize your character! Choose the fill and stroke colors you want for your character then simply click the part of the character you want to change. Remember to choose the colors first, and then click the part.
 Step Three: Give your character a new name!
 
 ## Features
@@ -55,7 +55,7 @@ To-do list:
 ---
 Project is: _in progress_
 
-Project done to class specifications. I have added a character creation template to the project. Added other functions and features. See the Features section for details, and the the To-do list for planned improvements.
+Project was completed to class specifications. I have added a character creation template to the project and added other functions and features. See the Features section for details, and the to-do list for planned improvements.
 
 ## Inspiration
 ---
