@@ -1,7 +1,8 @@
 # Project Name
-> Eye Exercise Project
+> [Eye Exercise Project](https://danielwestfall.github.io/eyeExercise/eyeexercise.html)
 
 ## Table of contents
+---
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
@@ -12,17 +13,21 @@
 * [Contact](#contact)
 
 ## General info
+---
 Our initial project was to take a premade webpage with a single eye on it that follows the mouse movement. Our project was to take the code, utilize the HTML, CSS, and JavaScript we have learned so far to create a second eye to follow the mouse as well. After the project, I decided to have a bit more fun with it. I thought the eyes were a fun concept and wanted to build on it. I thought it would be cool to make a character creation screen like seen in video games. I learned and utilized more and more in the creation of this project. I took the eyes and edited their styles to make them fit a selection of animal characters from a resource that has SVG artwork that is available for use (see the Inspiration section for details and credit for the artwork). I used HTML to structure the page using an iframe to center the screen and forms to create the user input fields. I utilized a Bootstrap menu via Bootstrap CDN for attractive menu controls. CSS and JavaScript worked hand in hand to make all the user input options possible. The SVG elements are selected by clicking them and their styles are dynamically changed. 
 
 ## Screenshots
+---
 ![Example screenshot](eye.png)
 
 ## Technologies
+---
 * HTML
 * CSS
 * JavaScript
 
 ## Setup
+---
 Feel free to fork it and make your own changes. You can also download the files locally and unzip them to a folder and run them in your favorite web browser. Check out the project [here](https://danielwestfall.github.io/eyeExercise/eyeexercise.html "Eye Exercise").
 
 Step One: Choose your character from the drop down menu. You have 8 characters to choose from!
@@ -30,6 +35,7 @@ Step Two: Customize your character! Choose the fill and stroke colors you want f
 Step Three: Give your character a new name!
 
 ## Features
+---
 List of features:
 * Added a character creation screen theme.
 * Bootstrap menu added via BootstrapCDN.
@@ -46,11 +52,13 @@ To-do list:
 * Make color change easier by changing the colors in real time through the color input fields.
 
 ## Status
+---
 Project is: _in progress_
 
 Project done to class specifications. I have added a character creation template to the project. Added other functions and features. See the Features section for details, and the the To-do list for planned improvements.
 
 ## Inspiration
+---
 Project created by MIT xPro Full Stack Web Development Course. Completed and modified by Daniel Westfall.
 
 Artwork used was taken from FreeSVG.org and understood to be under Creative Commons 0 license via FreeSCG.org. See the links to each below. 
@@ -74,9 +82,11 @@ Artwork used was taken from FreeSVG.org and understood to be under Creative Comm
 [Japanese Dou Shou Qi cat vector image](https://freesvg.org/japanese-dou-shou-qi-cat-vector-image)
 
 ## Contact
+---
 [Daniel Westfall](mailto:DWWestfall@Protonmail.com).  Check out [my Portfolio](https://danielwestfall.github.io/ "my Portfolio")
 
 ## License
+---
 MIT License
 
 Copyright (c) 2021 Daniel Westfall
