@@ -1,5 +1,5 @@
 # Project Name
-> [Eye Exercise Project](https://danielwestfall.github.io/eyeExercise/eyeexercise.html)
+> [Eye Exercise Project - Click here to view!](https://danielwestfall.github.io/eyeExercise/eyeexercise.html)
 
 ## Table of contents
 ---
